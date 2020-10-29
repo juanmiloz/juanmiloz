@@ -1,4 +1,4 @@
-# console.log('Hi there ! ! 👋')
+# Hi there ! ! 👋
 I am a student at icesi university. I specialize in developing client server programs. My main programming languages/plataforms are: java.
 
 you can follow me in the next sites/plataforms:
