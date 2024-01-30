@@ -32,7 +32,9 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 
 <h3 align="left">My favorite languages:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiloz&show_icons=true&locale=en&layout=compact" alt="juanmiloz" /></p>
